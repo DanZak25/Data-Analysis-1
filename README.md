@@ -1,7 +1,7 @@
 # Data-Analysis-1
 
 ## Purpose
-1. To study the metrics that influence midfielder's assists numbers
+1. To study the metrics that influence midfielder's assists numbers<br>
 2.To classify midfielders into roles using ML and study the distribution
 
 The dataset used in this study consists of football player statistics from the 2021-2022 season. It includes performance metrics such as passes completed(PasTotCmp),Interceptions(Int), completed passes into the 18-yard box(PPA) and more. In addition, it also contains player's details such as minutes played(Min), squad, league(Comp) and more. The dataset covers players across the top five European leagues: Premier League, La Liga, Bundesliga, Serie A, and Ligue 1.
