@@ -1,6 +1,6 @@
 # Data-Analysis-1
 
-## Purpose
+## Objective
 1. To study the metrics that influence midfielder's assists numbers
 2. To classify midfielders into roles using ML and study the distribution
 
